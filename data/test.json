@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "nombre": "elemento 1",
+            "data": [
+                {
+                    "tipo": 1,
+                    "valor": "a"
+                },
+                {
+                    "tipo": 2,
+                    "valor": "b"
+                }
+            ]
+        },
+        {
+            "nombre": "elemento 2",
+            "data": [
+                {
+                    "tipo": 3,
+                    "valor": "c"
+                },
+                {
+                    "tipo": 4,
+                    "valor": "d"
+                }
+            ]
+        }
+    ]
+}
